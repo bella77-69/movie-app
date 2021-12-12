@@ -1,0 +1,621 @@
+[
+   
+    {
+    "id": "tt10872600",
+    "title": "Spider-Man: No Way Home",
+    "fullTitle": "Spider-Man: No Way Home (2021)",
+    "year": "2021",
+    "releaseState": "December 17",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "150",
+    "runtimeStr": "2h 30mins",
+    "plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "contentRating": "PG-13",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "",
+    "genres": "Action, Adventure, Sci-Fi",
+    "genreList": [
+    {
+    "key": "Action",
+    "value": "Action"
+    },
+    {
+    "key": "Adventure",
+    "value": "Adventure"
+    },
+    {
+    "key": "Sci-Fi",
+    "value": "Sci-Fi"
+    }
+    ],
+    "directors": "Jon Watts",
+    "directorList": [
+    {
+    "id": "nm1218281",
+    "name": "Jon Watts"
+    }
+    ],
+    "stars": "Zendaya, Benedict Cumberbatch, Tom Holland, Marisa Tomei",
+    "starList": [
+    {
+    "id": "nm3918035",
+    "name": "Zendaya"
+    },
+    {
+    "id": "nm1212722",
+    "name": "Benedict Cumberbatch"
+    },
+    {
+    "id": "nm4043618",
+    "name": "Tom Holland"
+    },
+    {
+    "id": "nm0000673",
+    "name": "Marisa Tomei"
+    }
+    ]
+    },
+    {
+    "id": "tt7740496",
+    "title": "Nightmare Alley",
+    "fullTitle": "Nightmare Alley (2021)",
+    "year": "2021",
+    "releaseState": "December 17",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWNmM2UzZGEtZTM1MC00N2Q1LTgwOTYtMzU0YjgwNWI2Y2E3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "150",
+    "runtimeStr": "2h 30mins",
+    "plot": "An ambitious carny with a talent for manipulating people with a few well-chosen words hooks up with a female psychiatrist who is even more dangerous than he is.",
+    "contentRating": "R",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "",
+    "genres": "Action, Crime, Drama, Thriller",
+    "genreList": [
+    {
+    "key": "Action",
+    "value": "Action"
+    },
+    {
+    "key": "Crime",
+    "value": "Crime"
+    },
+    {
+    "key": "Drama",
+    "value": "Drama"
+    },
+    {
+    "key": "Thriller",
+    "value": "Thriller"
+    }
+    ],
+    "directors": "Guillermo del Toro",
+    "directorList": [
+    {
+    "id": "nm0868219",
+    "name": "Guillermo del Toro"
+    }
+    ],
+    "stars": "Bradley Cooper, Rooney Mara, Cate Blanchett, Mary Steenburgen",
+    "starList": [
+    {
+    "id": "nm0177896",
+    "name": "Bradley Cooper"
+    },
+    {
+    "id": "nm1913734",
+    "name": "Rooney Mara"
+    },
+    {
+    "id": "nm0000949",
+    "name": "Cate Blanchett"
+    },
+    {
+    "id": "nm0005460",
+    "name": "Mary Steenburgen"
+    }
+    ]
+    },
+    {
+    "id": "tt9100054",
+    "title": "The Lost Daughter",
+    "fullTitle": "The Lost Daughter (2021)",
+    "year": "2021",
+    "releaseState": "December 17",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTJmYTJmYTktMzU1Yy00ZTZlLTgzNjItYmY4ZDFjZGFjYjZhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "121",
+    "runtimeStr": "2h 1mins",
+    "plot": "A woman's beach vacation takes a dark turn when she begins to confront the troubles of her past.",
+    "contentRating": "R",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "88",
+    "genres": "Drama",
+    "genreList": [
+    {
+    "key": "Drama",
+    "value": "Drama"
+    }
+    ],
+    "directors": "Maggie Gyllenhaal",
+    "directorList": [
+    {
+    "id": "nm0350454",
+    "name": "Maggie Gyllenhaal"
+    }
+    ],
+    "stars": "Olivia Colman, Dakota Johnson, Peter Sarsgaard, Jessie Buckley",
+    "starList": [
+    {
+    "id": "nm1469236",
+    "name": "Olivia Colman"
+    },
+    {
+    "id": "nm0424848",
+    "name": "Dakota Johnson"
+    },
+    {
+    "id": "nm0765597",
+    "name": "Peter Sarsgaard"
+    },
+    {
+    "id": "nm2976580",
+    "name": "Jessie Buckley"
+    }
+    ]
+    },
+    {
+    "id": "tt11131464",
+    "title": "The Novice",
+    "fullTitle": "The Novice (2021)",
+    "year": "2021",
+    "releaseState": "December 17",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWNhMTg0MzAtNmNkNC00NjU2LTgwYTAtMTllNTQ1MDU5NjNjXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_UX128_CR0,1,128,176_AL_.jpg",
+    "runtimeMins": "94",
+    "runtimeStr": "1h 34mins",
+    "plot": "A college freshman joins her university's rowing team and undertakes an obsessive physical and psychological journey to make it to the top varsity boat, no matter the cost.",
+    "contentRating": "R",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "79",
+    "genres": "Thriller",
+    "genreList": [
+    {
+    "key": "Thriller",
+    "value": "Thriller"
+    }
+    ],
+    "directors": "Lauren Hadaway",
+    "directorList": [
+    {
+    "id": "nm4042990",
+    "name": "Lauren Hadaway"
+    }
+    ],
+    "stars": "Isabelle Fuhrman, Amy Forsyth, Dilone, Jonathan Cherry",
+    "starList": [
+    {
+    "id": "nm2265157",
+    "name": "Isabelle Fuhrman"
+    },
+    {
+    "id": "nm5046593",
+    "name": "Amy Forsyth"
+    },
+    {
+    "id": "nm8883272",
+    "name": "Dilone"
+    },
+    {
+    "id": "nm0974364",
+    "name": "Jonathan Cherry"
+    }
+    ]
+    },
+    {
+    "id": "tt10838180",
+    "title": "The Matrix Resurrections",
+    "fullTitle": "The Matrix Resurrections (2021)",
+    "year": "2021",
+    "releaseState": "December 24",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "148",
+    "runtimeStr": "2h 28mins",
+    "plot": "The plot is currently unknown.",
+    "contentRating": "R",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "",
+    "genres": "Action, Sci-Fi",
+    "genreList": [
+    {
+    "key": "Action",
+    "value": "Action"
+    },
+    {
+    "key": "Sci-Fi",
+    "value": "Sci-Fi"
+    }
+    ],
+    "directors": "Lana Wachowski",
+    "directorList": [
+    {
+    "id": "nm0905154",
+    "name": "Lana Wachowski"
+    }
+    ],
+    "stars": "Keanu Reeves, Christina Ricci, Jessica Henwick, Carrie-Anne Moss",
+    "starList": [
+    {
+    "id": "nm0000206",
+    "name": "Keanu Reeves"
+    },
+    {
+    "id": "nm0000207",
+    "name": "Christina Ricci"
+    },
+    {
+    "id": "nm3725055",
+    "name": "Jessica Henwick"
+    },
+    {
+    "id": "nm0005251",
+    "name": "Carrie-Anne Moss"
+    }
+    ]
+    },
+    {
+    "id": "tt6856242",
+    "title": "The King's Man",
+    "fullTitle": "The King's Man (2021)",
+    "year": "2021",
+    "releaseState": "December 24",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDEzZDY2ZDktNTlmOS00NThjLThkNTEtMjE5MzI5NWEwZmRjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "131",
+    "runtimeStr": "2h 11mins",
+    "plot": "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions.",
+    "contentRating": "R",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "",
+    "genres": "Action, Adventure, Comedy, Crime, Thriller",
+    "genreList": [
+    {
+    "key": "Action",
+    "value": "Action"
+    },
+    {
+    "key": "Adventure",
+    "value": "Adventure"
+    },
+    {
+    "key": "Comedy",
+    "value": "Comedy"
+    },
+    {
+    "key": "Crime",
+    "value": "Crime"
+    },
+    {
+    "key": "Thriller",
+    "value": "Thriller"
+    }
+    ],
+    "directors": "Matthew Vaughn",
+    "directorList": [
+    {
+    "id": "nm0891216",
+    "name": "Matthew Vaughn"
+    }
+    ],
+    "stars": "Ralph Fiennes, Gemma Arterton, Rhys Ifans, Harris Dickinson",
+    "starList": [
+    {
+    "id": "nm0000146",
+    "name": "Ralph Fiennes"
+    },
+    {
+    "id": "nm2605345",
+    "name": "Gemma Arterton"
+    },
+    {
+    "id": "nm0406975",
+    "name": "Rhys Ifans"
+    },
+    {
+    "id": "nm6170168",
+    "name": "Harris Dickinson"
+    }
+    ]
+    },
+    {
+    "id": "tt10095582",
+    "title": "The Tragedy of Macbeth",
+    "fullTitle": "The Tragedy of Macbeth (2021)",
+    "year": "2021",
+    "releaseState": "December 24",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjhlYTAwNWEtYWNkNC00MjdjLTk3NDktNzQyYWNmYjA2OGEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "105",
+    "runtimeStr": "1h 45mins",
+    "plot": "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
+    "contentRating": "R",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "89",
+    "genres": "Drama, History, Thriller, War",
+    "genreList": [
+    {
+    "key": "Drama",
+    "value": "Drama"
+    },
+    {
+    "key": "History",
+    "value": "History"
+    },
+    {
+    "key": "Thriller",
+    "value": "Thriller"
+    },
+    {
+    "key": "War",
+    "value": "War"
+    }
+    ],
+    "directors": "Joel Coen",
+    "directorList": [
+    {
+    "id": "nm0001054",
+    "name": "Joel Coen"
+    }
+    ],
+    "stars": "Denzel Washington, Frances McDormand, Alex Hassell, Bertie Carvel",
+    "starList": [
+    {
+    "id": "nm0000243",
+    "name": "Denzel Washington"
+    },
+    {
+    "id": "nm0000531",
+    "name": "Frances McDormand"
+    },
+    {
+    "id": "nm1307435",
+    "name": "Alex Hassell"
+    },
+    {
+    "id": "nm1584487",
+    "name": "Bertie Carvel"
+    }
+    ]
+    },
+    {
+    "id": "tt6467266",
+    "title": "Sing 2",
+    "fullTitle": "Sing 2 (2021)",
+    "year": "2021",
+    "releaseState": "December 24",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWRiZGQ1NDMtODQ2OS00MDlhLWJkZGYtM2ZmNjlhZThjOWRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "112",
+    "runtimeStr": "1h 52mins",
+    "plot": "Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.",
+    "contentRating": "PG",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "",
+    "genres": "Animation, Adventure, Comedy, Family, Musical",
+    "genreList": [
+    {
+    "key": "Animation",
+    "value": "Animation"
+    },
+    {
+    "key": "Adventure",
+    "value": "Adventure"
+    },
+    {
+    "key": "Comedy",
+    "value": "Comedy"
+    },
+    {
+    "key": "Family",
+    "value": "Family"
+    },
+    {
+    "key": "Musical",
+    "value": "Musical"
+    }
+    ],
+    "directors": "Garth Jennings",
+    "directorList": [
+    {
+    "id": "nm1134029",
+    "name": "Garth Jennings"
+    }
+    ],
+    "stars": "Matthew McConaughey, Taron Egerton, Tori Kelly, Reese Witherspoon",
+    "starList": [
+    {
+    "id": "nm0000190",
+    "name": "Matthew McConaughey"
+    },
+    {
+    "id": "nm5473782",
+    "name": "Taron Egerton"
+    },
+    {
+    "id": "nm1812991",
+    "name": "Tori Kelly"
+    },
+    {
+    "id": "nm0000702",
+    "name": "Reese Witherspoon"
+    }
+    ]
+    },
+    {
+    "id": "tt0995854",
+    "title": "A Journal for Jordan",
+    "fullTitle": "A Journal for Jordan (2021)",
+    "year": "2021",
+    "releaseState": "December 24",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjVjNmUyZGItMDRlZi00ZTMwLTllM2UtNzFlZDZhMWMxOTUyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "131",
+    "runtimeStr": "2h 11mins",
+    "plot": "1st Sgt. Charles Monroe King, before he is killed in action in Baghdad, authors a journal for his son intended to tell him how to live a decent life despite growing up without a father.",
+    "contentRating": "PG-13",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "",
+    "genres": "Drama",
+    "genreList": [
+    {
+    "key": "Drama",
+    "value": "Drama"
+    }
+    ],
+    "directors": "Denzel Washington",
+    "directorList": [
+    {
+    "id": "nm0000243",
+    "name": "Denzel Washington"
+    }
+    ],
+    "stars": "Michael B. Jordan, Tamara Tunie, Chanté Adams, Robert Wisdom",
+    "starList": [
+    {
+    "id": "nm0430107",
+    "name": "Michael B. Jordan"
+    },
+    {
+    "id": "nm0876645",
+    "name": "Tamara Tunie"
+    },
+    {
+    "id": "nm6001320",
+    "name": "Chanté Adams"
+    },
+    {
+    "id": "nm0936298",
+    "name": "Robert Wisdom"
+    }
+    ]
+    },
+    {
+    "id": "tt11729298",
+    "title": "American Underdog",
+    "fullTitle": "American Underdog (2021)",
+    "year": "2021",
+    "releaseState": "December 24",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWE4ODBjNDItYTE1MC00ODg1LTg5MzUtZDRkY2ZiZjQyYTgzXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "",
+    "runtimeStr": "",
+    "plot": "The story of NFL MVP and Hall of Fame quarterback, Kurt Warner, who went from stocking shelves at a supermarket to becoming an American Football star.",
+    "contentRating": "PG",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "",
+    "genres": "Biography, Drama, Sport",
+    "genreList": [
+    {
+    "key": "Biography",
+    "value": "Biography"
+    },
+    {
+    "key": "Drama",
+    "value": "Drama"
+    },
+    {
+    "key": "Sport",
+    "value": "Sport"
+    }
+    ],
+    "directors": "Andrew Erwin, Jon Erwin",
+    "directorList": [
+    {
+    "id": "nm3401779",
+    "name": "Andrew Erwin"
+    },
+    {
+    "id": "nm2296528",
+    "name": "Jon Erwin"
+    }
+    ],
+    "stars": "Zachary Levi, Anna Paquin, Dennis Quaid, Adam Baldwin",
+    "starList": [
+    {
+    "id": "nm1157048",
+    "name": "Zachary Levi"
+    },
+    {
+    "id": "nm0001593",
+    "name": "Anna Paquin"
+    },
+    {
+    "id": "nm0000598",
+    "name": "Dennis Quaid"
+    },
+    {
+    "id": "nm0000284",
+    "name": "Adam Baldwin"
+    }
+    ]
+    },
+    {
+    "id": "tt12889404",
+    "title": "Cyrano",
+    "fullTitle": "Cyrano (2021)",
+    "year": "2021",
+    "releaseState": "December 31",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDhhYjU4ZDMtYjI5OC00N2RkLTg5MGItZTNkM2Q5MzE5NjQxXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UX128_CR0,4,128,176_AL_.jpg",
+    "runtimeMins": "124",
+    "runtimeStr": "2h 4mins",
+    "plot": "Too self-conscious to woo Roxanne himself, wordsmith Cyrano de Bergerac helps young Christian nab her heart through love letters.",
+    "contentRating": "PG-13",
+    "imDbRating": "",
+    "imDbRatingCount": "",
+    "metacriticRating": "73",
+    "genres": "Drama, Musical, Romance",
+    "genreList": [
+    {
+    "key": "Drama",
+    "value": "Drama"
+    },
+    {
+    "key": "Musical",
+    "value": "Musical"
+    },
+    {
+    "key": "Romance",
+    "value": "Romance"
+    }
+    ],
+    "directors": "Joe Wright",
+    "directorList": [
+    {
+    "id": "nm0942504",
+    "name": "Joe Wright"
+    }
+    ],
+    "stars": "Haley Bennett, Peter Dinklage, Ben Mendelsohn, Kelvin Harrison Jr.",
+    "starList": [
+    {
+    "id": "nm2247245",
+    "name": "Haley Bennett"
+    },
+    {
+    "id": "nm0227759",
+    "name": "Peter Dinklage"
+    },
+    {
+    "id": "nm0578853",
+    "name": "Ben Mendelsohn"
+    },
+    {
+    "id": "nm5123156",
+    "name": "Kelvin Harrison Jr."
+    }
+    ]
+    }
+    ]
+  
+    
